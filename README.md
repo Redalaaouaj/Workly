@@ -22,6 +22,6 @@ Le site Workly est développé en utilisant une pile technologique moderne et ef
 
 * **Tailwind CSS** : Ce framework CSS utilitaire-first est employé pour styliser le site. Tailwind CSS permet un développement rapide et flexible en offrant une multitude de classes prédéfinies pour construire des designs personnalisés sans écrire de CSS traditionnel. Il est particulièrement adapté pour créer des interfaces **modernes et responsive** avec une grande précision.
 
-* **JavaScript (JS)** : Intégré pour ajouter de l'interactivité et des fonctionnalités dynamiques au site. Bien que le site soit statique dans son essence, JavaScript est utilisé pour améliorer l'expérience utilisateur, par exemple via des animations subtiles, des galeries d'images interactives, ou des formulaires de contact basiques (si applicable).
+* **JavaScript (JS)** : Intégré pour ajouter de l'interactivité et des fonctionnalités dynamiques au site. Bien que le site soit statique dans son essence, JavaScript est utilisé pour améliorer l'expérience utilisateur, par exemple via des animations subtiles, des galeries d'images interactives, ou des formulaires de contact basiques.
 
 ---
